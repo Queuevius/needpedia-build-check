@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-13T15:31:55Z",
+  "checked_at": "2026-11-14T14:17:48Z",
   "passed": true,
   "failed_step": "",
   "error_lines": [],
   "needpedia_commit": "1160a88738f37bbf652e947e49672296229394d6",
-  "run_url": "https://github.com/Queuevius/needpedia-build-check/actions/runs/43452750338",
-  "last_passed_at": "2026-11-13T15:31:55Z"
+  "run_url": "https://github.com/Queuevius/needpedia-build-check/actions/runs/43603714810",
+  "last_passed_at": "2026-11-14T14:17:48Z"
 }
